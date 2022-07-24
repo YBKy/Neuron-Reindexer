@@ -7,5 +7,5 @@ But here lies the problem: After a neuron is deleted, all following neurons shif
 I made an external tool to fix this problem. 
 
 If Python is not installed on your computer, you're going to have to install it first from [here](https://www.python.org/downloads/).
-With  Python installed you just need  to open the neuron-reindexer.pyw file to run the program. It will ask you to select the file you want to be fixed. Select that file and the tool will fix wrong indexes. 
+With  Python installed you just need  to open the neuron-reindexer.pyw file to run the program. It will ask you to select the file you want to be fixed. Select that file. It might not have looked like it, but the tool will have fixed wrong indexes. 
  
